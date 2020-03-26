@@ -18,3 +18,7 @@ h1 {
 	font-family: "Georgia";
 	text-align: Center;
 }
+h2 {
+	color: lightgray;
+	font-weight: Bold;
+}
