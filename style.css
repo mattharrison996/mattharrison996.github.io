@@ -1,8 +1,20 @@
 body {
-	background: bisque;
+	background: midnightblue;
 }
 p {
 	
-	font-family: Arial;
-	color: maroon;
+	color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-family: "Helvetica";
+  font-size: 18px;
+}
+
+
+h1 {
+	color: #FFF;
+	font-size: 2em;
+	font-family: "Georgia";
+	text-align: Center;
 }
